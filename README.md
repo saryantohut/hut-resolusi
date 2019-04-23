@@ -1,2 +1,2 @@
 # hut-resolusi
-Repository untuk menyimpan rencana hut ke depannya
+Repository untuk menyimpan rencana HUT ke depannya
